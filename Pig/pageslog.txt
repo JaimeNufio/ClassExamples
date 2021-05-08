@@ -1,0 +1,4 @@
+www.cnn.com	0.9
+www.flickr.com	0.9
+www.myblog.com	0.7
+www.crap.com	0.2
